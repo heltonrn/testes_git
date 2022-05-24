@@ -7,7 +7,9 @@ public class Pessoa {
 		return codigo;
 	}
 	public void setCodigo(Integer codigo) {
-		//set codigo
+		//set codigo teste
+		
+		this.codigo = codigo;
 		this.codigo = codigo;
 		
 	}
