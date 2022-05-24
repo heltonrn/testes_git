@@ -7,7 +7,9 @@ public class Pessoa {
 		return codigo;
 	}
 	public void setCodigo(Integer codigo) {
+		//set codigo
 		this.codigo = codigo;
+		
 	}
 	public String getNome() {
 		return nome;
